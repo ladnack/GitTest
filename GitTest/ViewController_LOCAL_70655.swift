@@ -22,15 +22,6 @@ class ViewController: UIViewController {
         
         
         
-        
-        let button: UIButton = UIButton()
-        
-        button.backgroundColor = UIColor.gray
-        
-        
-        
-        
-        
     }
 
     override func didReceiveMemoryWarning() {

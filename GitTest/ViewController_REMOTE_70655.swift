@@ -13,16 +13,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let label: UILabel = UILabel()
-        
-        label.text = "commit"
-        
-        
-        
-        
-        
-        
-        
         let button: UIButton = UIButton()
         
         button.backgroundColor = UIColor.gray
