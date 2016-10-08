@@ -11,7 +11,6 @@ import UIKit
 class ViewController: UIViewController {
     
     var pull: UIView!
-    var orign: UIView!
     
     
     override func viewDidLoad() {
@@ -24,7 +23,6 @@ class ViewController: UIViewController {
         button.backgroundColor = UIColor.gray
         
         self.view.addSubview(pull)
-        self.view.addSubview(orign)
         
         
         

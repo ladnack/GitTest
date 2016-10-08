@@ -10,8 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
     
+<<<<<<< HEAD
     var pull: UIView!
     var orign: UIView!
+=======
+    var branch: UIView!
+>>>>>>> gh-4/sub-3
     
     
     override func viewDidLoad() {
@@ -23,13 +27,8 @@ class ViewController: UIViewController {
         let button: UIButton = UIButton()
         button.backgroundColor = UIColor.gray
         
-<<<<<<< HEAD
-        self.view.addSubview(self.pull)
-        self.view.addSubview(self.orign)
-=======
-        self.view.addSubview(branch)
+        self.view.addSubview(pull)
         self.view.addSubview(orign)
->>>>>>> gh-4/sub-2
         
         
         
