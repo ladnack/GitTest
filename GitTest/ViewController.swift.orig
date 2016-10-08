@@ -9,28 +9,27 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    var pull: UIView!
+    var orign: UIView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
         let label: UILabel = UILabel()
-        
-<<<<<<< HEAD
-        label.text = "commit"
-        
-        
-        
-        
-        
-        
+        label.text = "github"
         
         let button: UIButton = UIButton()
-        
         button.backgroundColor = UIColor.gray
         
+<<<<<<< HEAD
+        self.view.addSubview(self.pull)
+        self.view.addSubview(self.orign)
 =======
-        label.text = "github"
->>>>>>> branch/gh-3
+        self.view.addSubview(branch)
+        self.view.addSubview(orign)
+>>>>>>> gh-4/sub-2
         
         
         
