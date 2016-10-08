@@ -23,7 +23,8 @@ class ViewController: UIViewController {
         let button: UIButton = UIButton()
         button.backgroundColor = UIColor.gray
         
-        
+        self.view.addSubview(self.branch)
+        self.view.addSubview(self.orign)
         
         
         
