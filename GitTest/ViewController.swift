@@ -23,13 +23,8 @@ class ViewController: UIViewController {
         let button: UIButton = UIButton()
         button.backgroundColor = UIColor.gray
         
-<<<<<<< HEAD
-        self.view.addSubview(self.pull)
-        self.view.addSubview(self.orign)
-=======
-        self.view.addSubview(branch)
+        self.view.addSubview(pull)
         self.view.addSubview(orign)
->>>>>>> gh-4/sub-2
         
         
         
