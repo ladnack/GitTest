@@ -18,17 +18,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         let label: UILabel = UILabel()
-        
         label.text = "github"
         
-        
-        
-        
-        
-        
-        
         let button: UIButton = UIButton()
-        
         button.backgroundColor = UIColor.gray
         
         
