@@ -9,7 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    var branch: UIView!
+    var orign: UIView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
