@@ -15,7 +15,8 @@ class ViewController: UIViewController {
         
         let label: UILabel = UILabel()
         
-        label.text = "github"
+<<<<<<< HEAD
+        label.text = "commit"
         
         
         
@@ -27,7 +28,9 @@ class ViewController: UIViewController {
         
         button.backgroundColor = UIColor.gray
         
-        
+=======
+        label.text = "github"
+>>>>>>> branch/gh-3
         
         
         
