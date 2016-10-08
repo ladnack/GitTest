@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var branch: UIView!
+    var pull: UIView!
     var orign: UIView!
     
     
@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         let button: UIButton = UIButton()
         button.backgroundColor = UIColor.gray
         
-        self.view.addSubview(self.branch)
+        self.view.addSubview(self.pull)
         self.view.addSubview(self.orign)
         
         
