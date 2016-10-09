@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         label.text = "github"
         
         let button: UIButton = UIButton()
-        button.backgroundColor = UIColor.yellow
+        button.backgroundColor = UIColor.yellow.withAlphaComponent(0.8)
         
         self.view.addSubview(pull)
         
