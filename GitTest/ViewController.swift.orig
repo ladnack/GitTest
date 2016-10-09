@@ -10,12 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-<<<<<<< HEAD
     var pull: UIView!
-    var orign: UIView!
-=======
-    var branch: UIView!
->>>>>>> gh-4/sub-3
     
     
     override func viewDidLoad() {
@@ -25,10 +20,13 @@ class ViewController: UIViewController {
         label.text = "github"
         
         let button: UIButton = UIButton()
-        button.backgroundColor = UIColor.gray
+<<<<<<< HEAD
+        button.backgroundColor = UIColor.gray.withAlphaComponent(0.8)
+=======
+        button.backgroundColor = UIColor.yellow
+>>>>>>> master
         
         self.view.addSubview(pull)
-        self.view.addSubview(orign)
         
         
         
