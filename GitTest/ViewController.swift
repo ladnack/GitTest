@@ -25,6 +25,8 @@ class ViewController: UIViewController {
         self.view.addSubview(pull)
         
         // hogehoge
+        // hogehoge2
+        // hogehoge3
         
         
         
