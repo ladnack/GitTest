@@ -12,22 +12,23 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        // test branch
         
 <<<<<<< HEAD
         let label: UILabel = UILabel()
-        
+
         label.text = "commit"
-        
+
 =======
         let button: UIButton = UIButton()
-        
+
         button.backgroundColor = UIColor.gray
 >>>>>>> branch/gh-2
-        
-        
-        
-        
-        
+
+
+
+
+
     }
 
     override func didReceiveMemoryWarning() {
@@ -37,4 +38,3 @@ class ViewController: UIViewController {
 
 
 }
-
