@@ -24,11 +24,7 @@ class ViewController: UIViewController {
         
         self.view.addSubview(pull)
         
-        // hogehoge
-        // hogehoge2
-        // hogehoge3
-        
-        // github
+        // change
         
         // commit1
         // commit2
