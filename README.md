@@ -7,7 +7,7 @@
 2242,朝鮮大学校,朝鮮大,chosendai.png,1,F75E60
 2267,リトアニア,LTU,ltu.png,4,EE5A5B
 2268,アンゴラ,AGO,AGO.png,4,EE5A5B
-2269,イタリア,ITA,ita.png,4,OOKAMI
+8888,イタリア,ITA,ita.png,4,OOKAMI
 2254,ｺﾆｰ･ﾍﾟﾗﾝ,ﾍﾟﾗﾝ,sui.png,3,FF6E7F
 2255,Andrea Gamiz,Gamiz,ven.png,3,EE5As5B
 2256,Amandine Hesse,Hesse,fra.png,3,5063B6
