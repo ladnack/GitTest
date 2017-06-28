@@ -7,4 +7,4 @@
 2242,朝鮮大学校,朝鮮大,chosendai.png,1,F75E60
 2267,リトアニア,LTU,ltu.png,4,EE5A5B
 2268,アンゴラ,AGO,AGO.png,4,EE5A5B
-2269,イタリア,ITA,ita.png,4,1068AA
+2269,イギリス,ITA,ita.png,4,1068AA
