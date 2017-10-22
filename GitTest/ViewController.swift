@@ -24,14 +24,6 @@ class ViewController: UIViewController {
         
         self.view.addSubview(pull)
         
-        // change
-        
-        // commit2
-        // commit3
-        
-        // Confrict
-        
-        
     }
 
     override func didReceiveMemoryWarning() {
